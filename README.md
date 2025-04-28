@@ -14,7 +14,7 @@ Generate and plot:
 - **Exponential:** `a^n * u(n)`
 - **Sine & Cosine:** `sin(ωn)`, `cos(ωn)`
 
-**Filename:** `01_elementary_signals.py`
+**Filename:** `01_elementary_signals.ipynb`
 
 ---
 
@@ -30,7 +30,7 @@ Sampled at:
 
 Compare the discrete-time plots.
 
-**Filename:** `02_sampling_aliasing.py`
+**Filename:** `02_sampling_aliasing.ipynb`
 
 ---
 
