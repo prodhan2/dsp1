@@ -40,7 +40,7 @@ Show that `ω = π` results in the **highest oscillation rate** in a discrete-ti
 
 `x[n] = cos(ωn)`
 
-**Filename:** `03_max_oscillation.py`
+**Filename:** `03_max_oscillation.ipynb`
 
 ---
 
