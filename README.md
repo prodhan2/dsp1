@@ -57,7 +57,7 @@ Sampled at:
 
 Observe and visualize **aliasing and frequency folding**.
 
-**Filename:** `04_complex_sampling.py`
+**Filename:** `04_complex_sampling.`
 
 ---
 
@@ -77,7 +77,7 @@ Compute output:
 
 Using **convolution sum**.
 
-**Filename:** `05_convolution_lti.py`
+**Filename:** `05_convolution_lti.ipynb`
 
 ---
 
@@ -92,7 +92,7 @@ Compute:
 - Cross-correlation between `x(n)` and `y(n)`
 - Cross-correlation between `y(n)` and `z(n)`
 
-**Filename:** `06_correlation.py`
+**Filename:** `06_correlation.ipynb`
 
 ---
 
@@ -104,7 +104,7 @@ Implement:
 - **6-point Differencing Filter:**
   `y[n] = x[n] - x[n-6]`
 
-**Filename:** `07_filter_realization.py`
+**Filename:** `07_filter_realization.ipynb`
 
 ---
 
@@ -122,7 +122,7 @@ Observe:
 - **Spectral leakage**
 - **Window smoothing effect**
 
-**Filename:** `08_dft_windowing.py`
+**Filename:** `08_dft_windowing.ipynb`
 
 ---
 
@@ -133,7 +133,7 @@ Observe:
 - Apply the filter using **convolution**
 - Visualize results in time and frequency domain
 
-**Filename:** `09_fir_filter.py`
+**Filename:** `09_fir_filter.ipynb`
 
 ---
 
