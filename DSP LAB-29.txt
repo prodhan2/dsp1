@@ -22,7 +22,7 @@ when ω=π.
 
 • Filter realization using 6-point averaging, 6-point differencing equations.
 
-• DFT of x_n (t)=sin(2π⋅1000t)+0.5sin(2π⋅2000t+3π/4).  
+• DFT of x_n (t)=sin(2π⋅1000t)+0.5sin(2π⋅2000t+3π/4).
 ⟹Also DFT with window + window function realization.
 
 • Design a low pass FIR filter to remove high-frequency noise from a signal using convolution.
